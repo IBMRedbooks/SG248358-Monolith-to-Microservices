@@ -1,0 +1,237 @@
+{
+  "CUSTOMER_ID": "1",
+  "USERNAME": "rbarcia",
+  "twData": {
+    "contributors_enabled": false,
+    "created_at": "Sat Dec 14 04:35:55 +0000 2013",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "Developer and Platform Relations @XXX. We are developer advocates. We can't answer all your questions, but we listen to all of them!",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "dev.SN1.com",
+            "expanded_url": "https://dev.SN1.com/",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/66w26cua1O"
+          }
+        ]
+      }
+    },
+    "favourites_count": 757,
+    "follow_request_sent": false,
+    "followers_count": 143916,
+    "following": false,
+    "friends_count": 1484,
+    "geo_enabled": true,
+    "id": 2244994945,
+    "id_str": "2244994945",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 516,
+    "location": "Internet",
+    "name": "SN1Dev",
+    "notifications": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2244994945/1396995246",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/530814764687949824/npQQVkq8_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/530814764687949824/npQQVkq8_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_location": null,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "protected": false,
+    "screen_name": "SN1Dev",
+    "status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Jun 12 19:50:18 +0000 2015",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "github.com/SN1/twi…",
+            "expanded_url": "https://github.com/SN1/SN1-for-bigquery",
+            "indices": [
+              36,
+              59
+            ],
+            "url": "https://t.co/K5orgXzhOM"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 18518601,
+            "id_str": "18518601",
+            "indices": [
+              3,
+              13
+            ],
+            "name": "William Vambenepe",
+            "screen_name": "vambenepe"
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 609447655429787600,
+      "id_str": "609447655429787648",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 19,
+      "retweeted": false,
+      "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jun 12 05:19:11 +0000 2015",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [
+            {
+              "display_url": "github.com/SN1/twi…",
+              "expanded_url": "https://github.com/SN1/SN1-for-bigquery",
+              "indices": [
+                21,
+                44
+              ],
+              "url": "https://t.co/K5orgXzhOM"
+            }
+          ],
+          "user_mentions": []
+        },
+        "favorite_count": 23,
+        "favorited": false,
+        "geo": null,
+        "id": 609228428915552300,
+        "id_str": "609228428915552257",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 19,
+        "retweeted": false,
+        "source": "<a href=\"//SN1.com%5C%22\" rel=\"\"nofollow\"\">SN1 Web Client</a>",
+        "text": "SN1 for BigQuery https://t.co/K5orgXzhOM See how easy it is to stream SN1 data into BigQuery.",
+        "truncated": false
+      },
+      "source": "<a href=\"//SN1.com/download/iphone%5C%22\" rel=\"\"nofollow\"\">SN1 for iPhone</a>",
+      "text": "RT @vambenepe: SN1 for BigQuery https://t.co/K5orgXzhOM See how easy it is to stream SN1 data into BigQuery.",
+      "truncated": false
+    },
+    "statuses_count": 1279,
+    "time_zone": "Pacific Time (US & Canada)",
+    "url": "https://t.co/66w26cua1O",
+    "utc_offset": -25200,
+    "verified": true
+  },
+  "fbData": {
+    "devices": [
+      {
+        "hardware": "iPhone",
+        "os": "iOS"
+      },
+      {
+        "os": "Android"
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "id": "231208527081402",
+          "name": "Best School"
+        },
+        "type": "High School",
+        "year": {
+          "id": "113125125403208",
+          "name": "2004"
+        },
+        "id": "109356269162353"
+      },
+      {
+        "concentration": [
+          {
+            "id": "101383096608567",
+            "name": "Computing Engineer"
+          }
+        ],
+        "school": {
+          "id": "109560059062252",
+          "name": "Best University"
+        },
+        "type": "College",
+        "year": {
+          "id": "144044875610603",
+          "name": "2011"
+        },
+        "id": "109356275829023"
+      }
+    ],
+    "hometown": {
+      "id": "102194039822307",
+      "name": "Bogotá, Colombia"
+    },
+    "locale": "es_LA",
+    "favorite_athletes": [
+      {
+        "id": "1603605746517803",
+        "name": "FamousAthlete13"
+      },
+      {
+        "id": "115562781814319",
+        "name": "Famous Soccer Player"
+      }
+    ],
+    "friends": {
+      "data": [
+        {
+          "name": "Fulanito de Tal",
+          "id": "10152543842351023"
+        },
+        {
+          "name": "Best Friend",
+          "id": "695718893"
+        },
+        {
+          "name": "Famous Developer",
+          "id": "10152194189655745"
+        }
+      ],
+      "paging": {
+        "cursors": {
+          "before": "QVFIUnhBS3BlY2Y1VUhSM2pRX1BYM1JSUXB0WUpXVEpoQWdZAZADZApRDdDZAkYzbVVEUUZANUURCOTRQM2IxQ2NHTHM4dTIZD",
+          "after": "QVFIUkF2SWN3X3dWOWdXZAGFRb1FtYTlwS1VaV3Izanh0eHlHOW04OUdlNjVYUmJ2RXk4LUlNWUZA3eGFYeVNKdnVEWHoZD"
+        }
+      },
+      "summary": {
+        "total_count": 130
+      }
+    },
+    "id": "688727731225203"
+  }
+}
