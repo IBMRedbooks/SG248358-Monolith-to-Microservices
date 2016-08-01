@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 2
+  domain: mybluemix.net
+  name: catalogsearch
+  host: catalogsearch
+  disk_quota: 1024M
