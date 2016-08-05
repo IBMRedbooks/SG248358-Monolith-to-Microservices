@@ -62,9 +62,9 @@ public class CustomerResource {
 		try {
 
 			// Create a new CloudantClient instance for account endpoint
-			CloudantClient client = ClientBuilder.account("4e105bc1-827a-4c30-bb96-3d165b9d5661-bluemix")
-					.username("4e105bc1-827a-4c30-bb96-3d165b9d5661-bluemix")
-					.password("820182a400289721277f340f616793f600c7b914a26c2cba0fb76d2c069aeb85")
+			CloudantClient client = ClientBuilder.account("<Cloudant Username>")
+					.username("<Cloudant Username>")
+					.password("<Cloudant Password>")
 					.disableSSLAuthentication().build();
 			Database db = client.database("accounts", false);
 
@@ -135,9 +135,9 @@ public class CustomerResource {
 		try {
 
 			// Create a new CloudantClient instance for account endpoint
-			CloudantClient client = ClientBuilder.account("4e105bc1-827a-4c30-bb96-3d165b9d5661-bluemix")
-					.username("4e105bc1-827a-4c30-bb96-3d165b9d5661-bluemix")
-					.password("820182a400289721277f340f616793f600c7b914a26c2cba0fb76d2c069aeb85")
+			CloudantClient client = ClientBuilder.account("<Cloudant Username>")
+					.username("<Cloudant Username>")
+					.password("<Cloudant Username>")
 					.disableSSLAuthentication().build();
 			Database db = client.database("accounts", false);
 
