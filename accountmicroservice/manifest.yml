@@ -1,0 +1,6 @@
+---
+applications:
+- name: AccountService-Java
+  memory: 512M
+  host: AccountService-Java
+  domain: mybluemix.net
